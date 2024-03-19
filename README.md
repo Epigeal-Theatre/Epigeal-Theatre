@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Epigeal-Theatre
 - 👀 I’m interested in ...Django, dart, Golang
 - 🌱 I’m currently learning Django, dart
-- 💞️ I’m looking to collaborate on everything possible. The goal is to master the entire the whole art one lanuage at a time, it is possible.
+- 💞️ I’m looking to collaborate on everything possible. The goal is to master the entire art one lanuage at a time.
 - 📫 How to reach me ...danielonyinkwa1@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ..."AI will replace techies by [YEAR]" is a dumb narative that we pass around just to decongest the coding space of quacks.
+- ⚡ Fun fact: ..."AI will replace techies by [YEAR]" is a dumb narrative we pass around to decongest the coding space.
 
 <!---
 Epigeal-Theatre/Epigeal-Theatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
