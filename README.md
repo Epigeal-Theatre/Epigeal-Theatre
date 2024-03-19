@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything possible. The goal is to master the entire art one language at a time.
 - 📫 How to reach me ...danielonyinkwa1@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ..."AI will replace techies by [YEAR]" is a dumb narrative we pass around to decongest the coding space.
+- ⚡ Fun fact: ..."AI will replace techies by [YEAR] is a dumb narrative we pass around to decongest the coding space.
 
 <!---
 Epigeal-Theatre/Epigeal-Theatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
