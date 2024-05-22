@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Django, dart, Golang and python
 - 🌱 I’m currently learning Django, dart
 - 💞️ I’m looking to collaborate on everything possible. The goal is to master the entire art one concept at a time.
-- 📫 How to reach me ...danielonyinkwa1@gmail.com
+- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ..."AI will replace techies by [YEAR] is a dumb narrative we pass around to decongest the coding space.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/www.linkedin.com/in/daniel-onyinkwa-72b35217b)
