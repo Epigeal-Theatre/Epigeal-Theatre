@@ -1,4 +1,3 @@
-![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Epigeal-Theatre&theme=github)
 - 👋 Hi, I’m @Epigeal-Theatre. okay you got me...Daniel Gallagher
 - 👀 I’m interested in ...Django, dart, Golang and python
 - 🌱 I’m currently learning Django, dart
@@ -8,6 +7,8 @@
 - ⚡ Fun fact: ..."AI will replace techies by [YEAR] is a dumb narrative we pass around to decongest the coding space.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/www.linkedin.com/in/daniel-onyinkwa-72b35217b)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/https://x.com/ONYINKWA_DAN)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&labelColor=black)](https://www.buymeacoffee.com/Epigeal-Theatre)
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epigeal-Theatre)](https://github.com/Epigeal-Theatre/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epigeal-Theatre&show_icons=true&theme=radical)
