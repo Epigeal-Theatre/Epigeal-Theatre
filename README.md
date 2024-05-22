@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epigeal-Theatre)](https://github.com/Epigeal-Theatre/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epigeal-Theatre&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epigeal-Theatre&layout=donut)](https://github.com/Epigeal-Theatre/github-readme-stats)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epigeal-Theatre&theme=default)
 
 
 <!---
