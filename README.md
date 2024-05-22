@@ -5,10 +5,12 @@
 - 📫 How to reach me ...danielonyinkwa1@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ..."AI will replace techies by [YEAR] is a dumb narrative we pass around to decongest the coding space.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epigeal-Theatre)](https://github.com/Epigeal-Theatre/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epigeal-Theatre)](https://github.com/Epigeal-Theatre/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epigeal-Theatre&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epigeal-Theatre&layout=donut)](https://github.com/Epigeal-Theatre/github-readme-stats)
+--->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epigeal-Theatre&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Epigeal-Theatre&theme=default)
 
 
 <!---
