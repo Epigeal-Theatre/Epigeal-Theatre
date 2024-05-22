@@ -8,6 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epigeal-Theatre)](https://github.com/Epigeal-Theatre/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epigeal-Theatre&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epigeal-Theatre&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epigeal-Theatre&show_icons=true&theme=transparent)
 
 <!---
 Epigeal-Theatre/Epigeal-Theatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
