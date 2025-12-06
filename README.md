@@ -2,7 +2,7 @@
 - 👀 We build literally anything and everything, but tend to lean more towards Django, Next.js, dart&Flutter, Golang...
 - 🌱 We are currently maintaining Trackermen.com, ...
 - 💞️ We looking forward to collaborate on django, next.js and flutter projects.
-- 📫 Reach out via: [danielonyinkwa1@gmail.com](mailto:danielonyinkwa1@gmail.com
+- 📫 Reach out via: [danielonyinkwa1@gmail.com](mailto:danielonyinkwa1@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/www.linkedin.com/in/daniel-onyinkwa-72b35217b)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/https://x.com/ONYINKWA_DAN)
 
